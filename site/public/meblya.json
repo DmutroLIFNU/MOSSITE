@@ -1,0 +1,17 @@
+{   
+    "mebli": {
+        "stil":{
+            "id": 1, 
+            "name": "Стіл дерев'яний", 
+            "price": 2500, 
+            "image": "table.jpg"
+        },
+
+        "dyvan":{ 
+            "id": 2, 
+            "name": "Диван шкіряний", 
+            "price": 12000, 
+            "image": "sofa.jpg" 
+        }
+    } 
+}

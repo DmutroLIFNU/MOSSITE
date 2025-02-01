@@ -1,0 +1,38 @@
+#head {
+  width: 100vw;
+  background-color: black;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-links {
+  display: flex;
+  gap: 20px;
+}
+
+.hbutt {
+  width: 200px;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  font-size: large;
+  display: inline-block;
+  text-align: center;
+  padding: 10px 0;
+  background-color: rgba(255, 123, 0, 0.87);
+  border: 1px solid rgba(255, 123, 0, 0.87);
+  border-radius: 5px;
+}
+
+.hbutt:hover {
+  background-color: rgba(165, 61, 42, 0.877);
+  color: white;
+}
+
+.logo {
+  height: 50px;
+}
+
+/*# sourceMappingURL=Head.css.map */
