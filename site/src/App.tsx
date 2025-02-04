@@ -9,7 +9,7 @@ function App() {
   return (
     <div
       style={{
-        backgroundColor: "rgb(211, 211, 211)",
+        backgroundColor: "rgb(255, 241, 232)",
         height: "100vh",
         width: "100vw",
       }}

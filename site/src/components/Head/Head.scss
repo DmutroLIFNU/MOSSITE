@@ -10,6 +10,7 @@ $black: black;
   display: flex;
   justify-content: space-between;
   align-items: center;
+  border-radius: 0 0 10px 10px;
 }
 
 .nav-links {
@@ -38,4 +39,5 @@ $black: black;
 
 .logo {
   height: 50px;
+  border-radius: 100px;
 }

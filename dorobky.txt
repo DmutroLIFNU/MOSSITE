@@ -1,3 +1,0 @@
-BACKEND
-
-V Baner.tsx dobavyty pokaz slaidiv
